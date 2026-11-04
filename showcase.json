@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "formats": [
+    {
+      "id": "ppt",
+      "label": "PPT",
+      "subtitle": "汇报 / 叙事",
+      "resources": [
+        {
+          "id": "ppt-featured",
+          "title": "比熊比耶--25 莫奈",
+          "subtitle": "",
+          "description": "水彩风格，奇幻的艺术视觉",
+          "cover": {
+            "src": "./media/showcase/dc42847dd54d894129d2c2f638fae49824c180e0acb5a4f95078e6f3996bbb1e.png",
+            "alt": "第 3 页",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "ppt-brooklyn-tree",
+          "title": "布鲁克林有棵树",
+          "subtitle": "读书分享",
+          "description": "以绘画与手撕纸张讲述故事，适合读书分享和文学主题表达。",
+          "cover": {
+            "src": "./media/showcase/c312ce5ed69c90a9084d716a1f8e927cb1a5b22cb48134bef961b663324250c6.png",
+            "alt": "布鲁克林有棵树设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "ppt-field-notes",
+          "title": "黑羊--284丨蓝色医学毕业答辩PPT模板",
+          "subtitle": "",
+          "description": "首都医科大学蓝色学术汇报",
+          "cover": {
+            "src": "./media/showcase/749edda821f096d1123ba4ddabcd531605786f04500db815ae175e04fdd1cfb0.png",
+            "alt": "第 1 页",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "ppt-work-report",
+          "title": "比熊比耶--47 宫崎骏",
+          "subtitle": "",
+          "description": "电影匠人的一生",
+          "cover": {
+            "src": "./media/showcase/5790040d61333a7a86b10ebf48926991b4660f777137bd65c4e3222ea5ec710e.png",
+            "alt": "第 26 页",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "poster",
+      "label": "海报",
+      "subtitle": "视觉 / 传播",
+      "resources": [
+        {
+          "id": "poster-redline",
+          "title": "红线宣言",
+          "subtitle": "活动海报 · 版式示意",
+          "description": "鲜明的砖红与有力的标题，让重点在第一眼就被看见。",
+          "cover": {
+            "src": "./media/showcase/2598bf99baadd387aa0241a5f000838a479de8f9e5f860074af79b69ac3eda90.png",
+            "alt": "红线宣言设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "poster-slow-days",
+          "title": "慢慢发生",
+          "subtitle": "生活方式 · 版式示意",
+          "description": "柔和的淡紫与留白，为日常灵感留一点呼吸空间。",
+          "cover": {
+            "src": "./media/showcase/b11ece9e3c7da4259caf029a84d1791343c3c36bf199019f256259a8b1549f20.png",
+            "alt": "慢慢发生设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "poster-nature-letter",
+          "title": "自然来信",
+          "subtitle": "自然主题 · 版式示意",
+          "description": "用清新的草木色和简洁构图，传递亲近自然的表达。",
+          "cover": {
+            "src": "./media/showcase/f2bcb988385b2aaa4f0ce9af7dd3e2cfbb3ce7bf1026c0d934aa87ddff8f5d92.png",
+            "alt": "自然来信设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "poster-city-corner",
+          "title": "城市一隅",
+          "subtitle": "城市文化 · 版式示意",
+          "description": "暖纸色与拱形轮廓，适合文化活动和城市生活主题。",
+          "cover": {
+            "src": "./media/showcase/f6f672898ca7e20c317e867eb01c76d533c3b25c7375071e797a018a95815538.png",
+            "alt": "城市一隅设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "excel",
+      "label": "Excel",
+      "subtitle": "数据 / 分析",
+      "resources": [
+        {
+          "id": "excel-business",
+          "title": "经营数据看板",
+          "subtitle": "经营分析 · 版式示意",
+          "description": "汇总营收、成本与利润，快速看清业务表现和变化趋势。",
+          "cover": {
+            "src": "./media/showcase/6220d33877a6f67bf77927bb97ea15f6045c1e58d72ae443d05e3fa07d0615f4.png",
+            "alt": "经营数据看板设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "excel-budget",
+          "title": "年度预算",
+          "subtitle": "预算管理 · 版式示意",
+          "description": "将部门预算与实际支出放在一起，清晰跟进资金使用。",
+          "cover": {
+            "src": "./media/showcase/b4ba7a74bd70047497e371cfd3f6605db878faf8f45f389d93bc0808367914ab.png",
+            "alt": "年度预算设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "excel-project",
+          "title": "项目进度",
+          "subtitle": "项目管理 · 版式示意",
+          "description": "梳理需求、设计和开发阶段，让完成情况一目了然。",
+          "cover": {
+            "src": "./media/showcase/a637586910912c3dc57b29de54bd8ff3cf8c4d2b4862eece5a163aa6abad3858.png",
+            "alt": "项目进度设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "excel-finance",
+          "title": "个人收支",
+          "subtitle": "收支记录 · 版式示意",
+          "description": "记录每月收入和支出，用清楚的层级找到消费重点。",
+          "cover": {
+            "src": "./media/showcase/de70f8c563f538758354b0b48e0d76501431893d5fc35cbdbb8b3045a72e51d1.png",
+            "alt": "个人收支设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "web",
+      "label": "网页",
+      "subtitle": "产品 / 体验",
+      "resources": [
+        {
+          "id": "web-nature",
+          "title": "山野之间",
+          "subtitle": "生活方式 · 版式示意",
+          "description": "以自然的绿色与宽松留白，为旅行和生活方式打造入口。",
+          "cover": {
+            "src": "./media/showcase/d940087ed1fc148c78f2d56dd33716b4f62e91eba63c8acc24e7aae5eb92375a.png",
+            "alt": "山野之间设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "web-studio",
+          "title": "造物工作室",
+          "subtitle": "品牌官网 · 版式示意",
+          "description": "用深色视觉与有序的内容层级，展示品牌和工作室作品。",
+          "cover": {
+            "src": "./media/showcase/930fc9dafbc4f5d9c9856608385cd3d5eca75fd1b550661c4da6ea2283e5deb8.png",
+            "alt": "造物工作室设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "web-coffee",
+          "title": "一间咖啡",
+          "subtitle": "空间体验 · 版式示意",
+          "description": "温暖的配色与柔和形状，呈现值得停留的日常空间。",
+          "cover": {
+            "src": "./media/showcase/014b141c046d99df12e49d72d0e42db2b2ea32229ae3733adfc499d6e8527925.png",
+            "alt": "一间咖啡设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        },
+        {
+          "id": "web-archive",
+          "title": "灵感档案",
+          "subtitle": "个人作品 · 版式示意",
+          "description": "把好奇和创意整理成轻盈的展示，让作品自然成为主角。",
+          "cover": {
+            "src": "./media/showcase/ae75713a90f9d4865477d0bff023a84c6c5852873fdc968fddcf8fc1bbfa0481.png",
+            "alt": "灵感档案设计预览",
+            "fit": "contain",
+            "position": "50% 50%"
+          },
+          "capabilities": {
+            "preview": true,
+            "acquire": false
+          }
+        }
+      ]
+    }
+  ]
+}
