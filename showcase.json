@@ -20,7 +20,63 @@
           "capabilities": {
             "preview": true,
             "acquire": false
-          }
+          },
+          "content_previews": [
+            {
+              "id": "7f60707b5ad147bf9dc6c60a882367d3_2",
+              "index": 1,
+              "label": "第 2 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/191c59743fb4b156727b81d97f326aceddc0227fa0abb2afa5363012a4d62239.png"
+            },
+            {
+              "id": "7f60707b5ad147bf9dc6c60a882367d3_7",
+              "index": 6,
+              "label": "第 7 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/c9a6fb9df1a03f63294aa6c506f1ee17f01acf0fe4659cf4c9e3f948cc9e141d.png"
+            },
+            {
+              "id": "7f60707b5ad147bf9dc6c60a882367d3_11",
+              "index": 10,
+              "label": "第 11 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/ece9c5a38a102cd0fb1989a1f6d628c3e177209a697c5764553ee58cea1cb52d.png"
+            },
+            {
+              "id": "7f60707b5ad147bf9dc6c60a882367d3_15",
+              "index": 14,
+              "label": "第 15 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/771017e48f46674d93abbefcf42a919e50e7aab17cf25eb1c38b1ea81af3924e.png"
+            },
+            {
+              "id": "7f60707b5ad147bf9dc6c60a882367d3_19",
+              "index": 18,
+              "label": "第 19 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/cda2cd5a42a3e2f316edc5a4652862d3bb87aec0c9d39f11247d93c7a38e69a0.png"
+            },
+            {
+              "id": "7f60707b5ad147bf9dc6c60a882367d3_23",
+              "index": 22,
+              "label": "第 23 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/66ecf3baec4d146d0aae2f5287ed60c3f62cdecfb523ac00f6853bdfeb71f203.png"
+            }
+          ]
         },
         {
           "id": "ppt-brooklyn-tree",
@@ -36,7 +92,8 @@
           "capabilities": {
             "preview": true,
             "acquire": false
-          }
+          },
+          "content_previews": []
         },
         {
           "id": "ppt-field-notes",
@@ -52,7 +109,63 @@
           "capabilities": {
             "preview": true,
             "acquire": false
-          }
+          },
+          "content_previews": [
+            {
+              "id": "05c8ec6694484724aee5b6016eb93c5b_2",
+              "index": 1,
+              "label": "第 2 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/8556ab5846a5e2100e06dc28f0a9858b38f76dd9dd6d8769b003e77f8ac68231.png"
+            },
+            {
+              "id": "05c8ec6694484724aee5b6016eb93c5b_10",
+              "index": 9,
+              "label": "第 10 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/c44e981e8a543254f5432d675b245d60b91f8be43e9b2684ea45e68a95239071.png"
+            },
+            {
+              "id": "05c8ec6694484724aee5b6016eb93c5b_19",
+              "index": 18,
+              "label": "第 19 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/c105c1725ff0f9e5a27f025080f348d8dbf062694897abfe63f976cf8557fde8.png"
+            },
+            {
+              "id": "05c8ec6694484724aee5b6016eb93c5b_27",
+              "index": 26,
+              "label": "第 27 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/8d1a0d7783746424dbb52b74753f03cd08b1285ddf53bda206f37fff0dd09441.png"
+            },
+            {
+              "id": "05c8ec6694484724aee5b6016eb93c5b_36",
+              "index": 35,
+              "label": "第 36 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/528b3a049ecae97e6909c426b3a192bd3a1d28dc3fce7350903225a645e2c3e0.png"
+            },
+            {
+              "id": "05c8ec6694484724aee5b6016eb93c5b_44",
+              "index": 43,
+              "label": "第 44 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/5628d7336e2c963f15080f24b2629ea80e3abdd30f76114da99c7b6e38cbed6b.png"
+            }
+          ]
         },
         {
           "id": "ppt-work-report",
@@ -68,7 +181,63 @@
           "capabilities": {
             "preview": true,
             "acquire": false
-          }
+          },
+          "content_previews": [
+            {
+              "id": "18d3b234377b4df3951c211a396ab646_2",
+              "index": 1,
+              "label": "第 2 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/160bf5a826b2786e59702beae9889d286b4362f6d98c219ccec4d0720032b71c.png"
+            },
+            {
+              "id": "18d3b234377b4df3951c211a396ab646_7",
+              "index": 6,
+              "label": "第 7 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/89c1af47c1e9dc7f0e5daa6b72d37b0847021eec0125addaa5d7fe5efc5064bd.png"
+            },
+            {
+              "id": "18d3b234377b4df3951c211a396ab646_12",
+              "index": 11,
+              "label": "第 12 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/78445e92509ee5f9663313bddf5d5ee81fa309f3fd3a1118329155bdb4aead51.png"
+            },
+            {
+              "id": "18d3b234377b4df3951c211a396ab646_17",
+              "index": 16,
+              "label": "第 17 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/29303156a35f4ed47c682f24a8df1c56a33a632c6a0075e1e9df36c910535e28.png"
+            },
+            {
+              "id": "18d3b234377b4df3951c211a396ab646_22",
+              "index": 21,
+              "label": "第 22 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/b145e50f43867493791468c98414f8e024b2605e5a8810e3f1fbd0b97e0bdcb4.png"
+            },
+            {
+              "id": "18d3b234377b4df3951c211a396ab646_28",
+              "index": 27,
+              "label": "第 28 页",
+              "kind": "slide",
+              "width": 1600,
+              "height": 900,
+              "url": "./media/showcase/2b83d0c5565517760bcf14413e7b5234f034fb8e94d76908a738ab9218e01e8f.png"
+            }
+          ]
         }
       ]
     },
